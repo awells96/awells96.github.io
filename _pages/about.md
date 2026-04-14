@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am a Postdoctoral Research Fellow at Colorado State University, working with [Jim Hurrell](https://www.atmos.colostate.edu/people/faculty/hurrell/) and [Brooke Anderson](https://vetmedbiosci.colostate.edu/directory/member/?id=brooke-anderson-35248) in the Department of Atmospheric Science. My research sits at the intersection of climate science and public health, with a focus on understanding the human health consequences of climate intervention strategies.
 
 My PhD examined stratospheric aerosols, and I continue to bring that expertise to questions about how deliberate modifications to the climate system — such as stratospheric aerosol injection — could affect air quality and, in turn, human health. As part of this work, I have developed an open-access computational workflow for assessing the air quality mortality impacts of climate change, with the goal of making this type of analysis accessible to the broader research community. If you're interested you can read more about that [here](https://doi.org/10.22541/essoar.177170388.88002537/v1).
