@@ -19,6 +19,8 @@ Henry, M., Haywood, J., Jones, A., Dalvi, M., **Wells, A.**, Visioni, D., Bednar
 
 Damany-Pearce, L., Johnson, B., **Wells, A.**, Osborne, M., Allan, J., Belcher, C., Jones, A. and Haywood, J. (2022). Australian wildfires cause the largest stratospheric warming since Pinatubo and extends the lifetime of the Antarctic ozone hole. *Scientific Reports*, 12(1), p.12665. [Paper](https://doi.org/10.1038/s41598-022-15794-3)
 
-
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
 
