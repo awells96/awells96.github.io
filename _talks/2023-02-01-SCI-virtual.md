@@ -8,4 +8,4 @@ date: 2023-02-01
 location: "Virtual"
 ---
 
-[Watch here](https://www.youtube.com/watch?v=ccNIQ-CAF3E)
+[Watch here](https://www.youtube.com/watch?v=ccNIQ-CAF3E) 30:31 - end
