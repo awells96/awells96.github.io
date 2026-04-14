@@ -13,5 +13,10 @@ var addressPoints = [
     "Identifying Climate Impacts from Different Injection Strategies in UKESM1<br />Solar Climate Intervention Virtual Symposia; Virtual",
     44.4939936,
     11.3576917
+  ],
+  [
+    "An Open-Access Workflow to Assess the Health Impacts of Air Quality under Climate Intervention<br />WCRP Virtual Workshop Series on Stratospheric Aerosol Injection; Virtual",
+    44.4939936,
+    11.3576917
   ]
 ];
