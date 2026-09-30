@@ -20,7 +20,7 @@ Looking ahead, I hope to continue my work on climate intervention whilst deepeni
 - **A. F. Wells**, J. W. Hurrell, E. Gilleland, & G. B. Anderson (2026).  
 An Open-Access Workflow Combining Climate Model Projections with Epidemiological Frameworks
 to Assess Air Quality Mortality.
-ESS Open Archive. 21 February 2026. <https://doi.org/10.22541/essoar.177170388.88002537/v1>
+Front. Clim. 8:1847091 <https://doi.org/10.3389/fclim.2026.1847091>
 - **Wells, A. F.**, & Haywood, J. M. (2025).  
 A risk-risk assessment of climate extremes: Comparing greenhouse gas warming and stratospheric aerosol injection in UKESM1.  
 Earth’s Future, 13, e2024EF005810. <https://doi.org/10.1029/2024EF005810>
