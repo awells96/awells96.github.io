@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-**A. F. Wells**, J. W. Hurrell, E. Gilleland, & G. B. Anderson (2026). An Open-Access Workflow Combining Climate Model Projections with Epidemiological Frameworks to Assess Air Quality Mortality. *ESS Open Archive*. [Preprint](https://doi.org/10.22541/essoar.177170388.88002537/v1)
+**A. F. Wells**, J. W. Hurrell, J.F. Pierce, E.S Egbebiyi, & G. B. Anderson: Redistributing Risk: Air-Quality Mortality under Two Stratospheric Aerosol Injection Strategies. _ESS Open Archive._ 29 September 2026. [Preprint](https://doi.org/10.22541/essoar.15009636/v1)
+
+**Wells AF**, Hurrell JW, Gilleland E and Anderson GB (2026) An open-access workflow combining climate model projections with epidemiological frameworks to assess air quality mortality. _Front. Clim._ 8:1847091. [Paper](https://doi.org/10.3389/fclim.2026.1847091)
 
 **Wells, A. F.**, & Haywood, J. M. (2025). A risk-risk assessment of climate extremes: Comparing greenhouse gas warming and stratospheric aerosol injection in UKESM1. *Earth's Future*, 13, e2024EF005810. [Paper](https://doi.org/10.1029/2024EF005810)
 
